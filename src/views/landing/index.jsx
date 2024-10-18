@@ -5,7 +5,7 @@ const Landing = () => {
 
     return (
       <div>
-        <h1>Este es el landing</h1>
+        <h1>¿Que te gustaria calcular?</h1>
         <Link to="/agua">Agua</Link>
         <p></p>
         <Link to="/luz">Luz</Link>
